@@ -1,0 +1,21 @@
+{ "prices": [
+  {"symbol": "XRPBUSD",
+  "sell": 0.8194,
+  "buy": 0.3208},
+  {"symbol": "ETHUSDT",
+  "sell": 2618.59,
+  "buy": 1101.49},
+  {"symbol": "BNBUSDT",
+  "sell": 354.36,
+  "buy": 205.29},
+  {"symbol": "ADAUSDT",
+  "sell": 0.6683,
+  "buy": 0.2419},
+  {"symbol": "XRPUSDT",
+  "sell": 0.8193,
+  "buy": 0.326},
+  {"symbol": "AVAXUSDT",
+  "sell": 48.231,
+  "buy": 8.775}
+]
+}

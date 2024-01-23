@@ -1,0 +1,2 @@
+ bot_token = "6561213553:AAF2vCJQVKul4XnyI2Cxpy_kKhYs64noozk"
+ ID = "406690752"
